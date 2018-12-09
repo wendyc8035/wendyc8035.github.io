@@ -1,6 +1,7 @@
+
 .row{   
 
-    background-color:black;
+    background-color: #4F4C50;
     color:white;
     font-size:20px;
 }
@@ -16,8 +17,14 @@
     margin-top:5px;
     margin-bottom:5px;
 }
-.aboutme{
-    border:1px solid black;   
+#aboutMe{
+    border:1px solid black; 
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: #B9F6A6;
+    color: black;
 }
 
 .rowmid{
@@ -45,7 +52,36 @@
     width: 1350px; 
 }
 
-body{
-    background-color: white;
+#aboutmeBody{
+    background-image: url("https://t4.ftcdn.net/jpg/01/54/74/03/240_F_154740390_frAWCjGjIkzwOZvQHMCysIVrTLJDFQFl.jpg") ;
+    
+}
+
+#Portfolio{
+    border:1px solid black; 
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: lightblue;
+    color: black;
+}
+
+#portfolioBody{
+    background-image: url("http://stlawyers.ca/wp-content/uploads/2017/01/light-blue-background-wallpaper-1.jpg");
+    
+}
+
+#contacts{
+    border:1px solid black; 
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: lightgrey;
+    color: black;
+}
+#contactBody{
+    background-image: url("https://www.desktopbackground.org/p/2014/07/20/796558_light-gray-pattern-wallpapers-desktop-abstract-wallpapers_1920x1200_h.jpg");
     
 }
