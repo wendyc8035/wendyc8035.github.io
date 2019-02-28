@@ -85,3 +85,15 @@
     background-image: url("https://www.desktopbackground.org/p/2014/07/20/796558_light-gray-pattern-wallpapers-desktop-abstract-wallpapers_1920x1200_h.jpg");
     
 }
+#infoA{
+    font-size: 20px;
+   
+    padding: 10px;
+}
+#infoP{
+    font-size: 20px;
+    
+}
+#infoC{
+    font-size: 20px;
+}
